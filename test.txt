@@ -1,2 +1,7 @@
 git is a ledgend software
+<<<<<<< Updated upstream
 git is a good softwae
+=======
+git is free software
+git is a good software
+>>>>>>> Stashed changes
